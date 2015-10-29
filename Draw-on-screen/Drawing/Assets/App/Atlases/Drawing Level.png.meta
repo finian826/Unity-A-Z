@@ -1,0 +1,454 @@
+fileFormatVersion: 2
+guid: 26e5263766a358f4b9fbbff5b23ab6aa
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: circle (Drawing Level)
+    21300002: beck (Drawing Level)
+    21300004: menu (Drawing Level)
+    21300006: home (Drawing Level)
+    21300008: trash (Drawing Level)
+    21300010: pencil_click (Drawing Level)
+    21300012: Missing
+    21300014: brush_click (Drawing Level)
+    21300016: delete_click (Drawing Level)
+    21300018: or (Drawing Level)
+    21300020: circle_color (Drawing Level)
+    21300022: pu (Drawing Level)
+    21300024: pi (Drawing Level)
+    21300026: res (Drawing Level)
+    21300028: bla (Drawing Level)
+    21300030: ye (Drawing Level)
+    21300032: gr (Drawing Level)
+    21300034: Missing
+    21300036: trash-click (Drawing Level)
+    21300038: home-click (Drawing Level)
+    21300040: menu-click (Drawing Level)
+    21300042: exit (Drawing Level)
+    21300044: camera (Drawing Level)
+    21300046: right (Drawing Level)
+    21300048: left (Drawing Level)
+    21300050: blu (Drawing Level)
+    21300052: menu-window (Drawing Level)
+    21300054: back (Drawing Level)
+    21300056: size-circle (Drawing Level)
+    21300058: main-size-circle (Drawing Level)
+    21300060: border_white (Drawing Level)
+    21300062: sound_off (Drawing Level)
+    21300064: sound_on (Drawing Level)
+    21300066: facebook (Drawing Level)
+    21300068: music_off (Drawing Level)
+    21300070: music_on (Drawing Level)
+    21300072: aboutUs (Drawing Level)
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: circle (Drawing Level)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 1011
+        height: 1013
+      alignment: 9
+      pivot: {x: .498516321, y: .501480758}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: beck (Drawing Level)
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1
+        width: 512
+        height: 512
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menu (Drawing Level)
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1016
+        width: 495
+        height: 512
+      alignment: 9
+      pivot: {x: .517171741, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: home (Drawing Level)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1016
+        width: 500
+        height: 512
+      alignment: 9
+      pivot: {x: .508000016, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trash (Drawing Level)
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 1
+        width: 498
+        height: 489
+      alignment: 9
+      pivot: {x: .506024122, y: .511247456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pencil_click (Drawing Level)
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 911
+        width: 155
+        height: 487
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: brush_click (Drawing Level)
+      rect:
+        serializedVersion: 2
+        x: 3023
+        y: 493
+        width: 100
+        height: 476
+      alignment: 9
+      pivot: {x: .487080067, y: .540717244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: delete_click (Drawing Level)
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 911
+        width: 212
+        height: 471
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: or (Drawing Level)
+      rect:
+        serializedVersion: 2
+        x: 3418
+        y: 887
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: circle_color (Drawing Level)
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 993
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pu (Drawing Level)
+      rect:
+        serializedVersion: 2
+        x: 3735
+        y: 1
+        width: 256
+        height: 251
+      alignment: 9
+      pivot: {x: .5, y: .509960175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pi (Drawing Level)
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 974
+        width: 251
+        height: 246
+      alignment: 9
+      pivot: {x: .509960175, y: .479674786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: res (Drawing Level)
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 1388
+        width: 250
+        height: 245
+      alignment: 9
+      pivot: {x: .488000005, y: .50612247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bla (Drawing Level)
+      rect:
+        serializedVersion: 2
+        x: 3676
+        y: 887
+        width: 249
+        height: 244
+      alignment: 9
+      pivot: {x: .485943764, y: .508196712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ye (Drawing Level)
+      rect:
+        serializedVersion: 2
+        x: 3766
+        y: 254
+        width: 249
+        height: 248
+      alignment: 9
+      pivot: {x: .485943764, y: .516129017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gr (Drawing Level)
+      rect:
+        serializedVersion: 2
+        x: 3418
+        y: 1145
+        width: 243
+        height: 248
+      alignment: 9
+      pivot: {x: .502057612, y: .516129017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 9
+      pivot: {x: .477551013, y: .502024293}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trash-click (Drawing Level)
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1022
+        width: 497
+        height: 489
+      alignment: 9
+      pivot: {x: .496981889, y: .501022518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: home-click (Drawing Level)
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 1
+        width: 496
+        height: 488
+      alignment: 9
+      pivot: {x: .495967746, y: .510245919}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menu-click (Drawing Level)
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1530
+        width: 495
+        height: 487
+      alignment: 9
+      pivot: {x: .49292928, y: .50308007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: exit (Drawing Level)
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1400
+        width: 476
+        height: 477
+      alignment: 9
+      pivot: {x: .5, y: .507337511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: camera (Drawing Level)
+      rect:
+        serializedVersion: 2
+        x: 3298
+        y: 481
+        width: 466
+        height: 404
+      alignment: 9
+      pivot: {x: .506437778, y: .509900987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: right (Drawing Level)
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 1400
+        width: 393
+        height: 416
+      alignment: 9
+      pivot: {x: .506361306, y: .538461566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: left (Drawing Level)
+      rect:
+        serializedVersion: 2
+        x: 3023
+        y: 971
+        width: 393
+        height: 415
+      alignment: 9
+      pivot: {x: .51145041, y: .479518086}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blu (Drawing Level)
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 974
+        width: 245
+        height: 247
+      alignment: 9
+      pivot: {x: .477551013, y: .502024293}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menu-window (Drawing Level)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1530
+        width: 491
+        height: 497
+      alignment: 9
+      pivot: {x: .494908363, y: .501006007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: back (Drawing Level)
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 1022
+        width: 137
+        height: 492
+      alignment: 9
+      pivot: {x: .492700726, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: size-circle (Drawing Level)
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 491
+        width: 479
+        height: 481
+      alignment: 9
+      pivot: {x: .513569951, y: .501039505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: main-size-circle (Drawing Level)
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 1
+        width: 512
+        height: 512
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: border_white (Drawing Level)
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 515
+        width: 505
+        height: 505
+      alignment: 9
+      pivot: {x: .506930709, y: .502970278}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sound_off (Drawing Level)
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 515
+        width: 496
+        height: 476
+      alignment: 9
+      pivot: {x: .495967746, y: .50420171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sound_on (Drawing Level)
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 492
+        width: 495
+        height: 417
+      alignment: 9
+      pivot: {x: .48888889, y: .513189435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: facebook (Drawing Level)
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 1
+        width: 256
+        height: 490
+      alignment: 9
+      pivot: {x: .47265625, y: .510204077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: music_off (Drawing Level)
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1530
+        width: 475
+        height: 485
+      alignment: 9
+      pivot: {x: .490526319, y: .509278357}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: music_on (Drawing Level)
+      rect:
+        serializedVersion: 2
+        x: 3298
+        y: 1
+        width: 435
+        height: 478
+      alignment: 9
+      pivot: {x: .535632193, y: .502092063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: aboutUs (Drawing Level)
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1516
+        width: 126
+        height: 453
+      alignment: 9
+      pivot: {x: .619047642, y: .512141287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
